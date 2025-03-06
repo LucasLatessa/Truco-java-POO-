@@ -19,7 +19,7 @@ public class TrucoAppCliente {
 		//IVista vista = new VistaGrafica();
 		
 		//VISTA CONSOLA(SIMULADA)
-		IVista vista = new VistaSimilConsola();
+		IVista vista = new VistaGrafica();
 		IControladorRemoto controlador = new Controlador(vista);
 		Cliente cliente = new Cliente("127.0.0.1", puerto, "127.0.0.1", 64000);
 		try {
