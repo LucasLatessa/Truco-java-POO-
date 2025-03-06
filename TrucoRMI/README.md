@@ -40,9 +40,9 @@ Asegúrate de que los puertos que elijas estén disponibles y no estén siendo u
 ## Problemas comunes
 No se encuentra el archivo JAR: Asegúrate de estar en el directorio correcto donde se encuentra el archivo .jar antes de ejecutarlo.
 
-#Problemas de puerto: Verifica que los puertos seleccionados estén libres y no estén siendo utilizados por otros procesos.
+Problemas de puerto: Verifica que los puertos seleccionados estén libres y no estén siendo utilizados por otros procesos.
 
-Contribuciones
+## Contribuciones
 Si deseas contribuir, por favor crea un fork del proyecto y envía un pull request.
 
 ¡Disfruta jugando al Truco!
