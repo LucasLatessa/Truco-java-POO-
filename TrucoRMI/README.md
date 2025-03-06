@@ -14,6 +14,7 @@ Primero, debes iniciar el servidor. Esto se hace ejecutando el siguiente comando
 
 ```bash
 java -jar TrucoServer.jar
+```
 Esto pondrá en marcha el servidor de Truco, el cual estará a la espera de conexiones de los clientes.
 
 ### 2. Ejecutar los clientes
@@ -23,10 +24,12 @@ Cliente 1:
 
 ```bash
 java -jar TrucoClient.jar 6401
+```
 Cliente 2:
 
 ```bash
 java -jar TrucoClient.jar 6402
+```
 Los clientes se conectarán al servidor usando los puertos especificados (en este caso, 6401 y 6402).
 
 Descripción de los comandos
