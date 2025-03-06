@@ -1,7 +1,6 @@
 # Truco Java - Aplicación Cliente/Servidor
 
-Este es un proyecto de una aplicación de Truco en Java que utiliza RMI (Remote Method Invocation) para la comunicación entre cliente y servidor.
-
+Este proyecto es una implementación del juego Truco en Java, utilizando RMI (Remote Method Invocation) para la comunicación entre cliente y servidor. La arquitectura sigue el patrón MVC (Modelo-Vista-Controlador), permitiendo una estructura clara y modular. Además, se emplea el patrón Observer para gestionar la interacción entre los diferentes componentes del sistema. También se incluyo serialización para guardar un ranking de ganadores, permitiendo almacenar y recuperar el historial de partidas.
 ## Requisitos
 
 - **Java 8 o superior** debe estar instalado en tu máquina.
