@@ -7,7 +7,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="C:/Users/lucas/Documents/GitHub/Truco-java-POO-/TrucoRMI/lib/LibreriaRMIMVC.jar"/>
-	<classpathentry kind="lib" path="C:/Users/lucas/Documents/GitHub/Truco-java-POO-/TrucoRMI/lib/miglayout15-swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lucas/Documents/GitHub/Truco-java-POO-/lib/LibreriaRMIMVC.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lucas/Documents/GitHub/Truco-java-POO-/lib/miglayout15-swing.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
